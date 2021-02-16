@@ -372,7 +372,7 @@ body {
     display: block;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 460px) {
   .header {
     display: flex;
     flex-wrap: wrap-reverse;
